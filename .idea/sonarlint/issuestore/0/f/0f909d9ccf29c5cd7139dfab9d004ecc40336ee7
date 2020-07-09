@@ -1,0 +1,16 @@
+
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Ñõ¬–8üş¨³.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÆÕ‰Äÿÿÿÿÿ8üş¨³.
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(•Å¶8üş¨³.
+E
+java:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8üş¨³.
+E
+java:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8üş¨³.
+]	java:S125/"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8üş¨³.
+7
+java:S1220""Move this file to a named package.8üş¨³.
+b	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ö¯ÚÓ8üş¨³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8üş¨³.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Ûæ›úÿÿÿÿ8üş¨³.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8üş¨³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æƒìşÿÿÿÿ8¡à€©³.

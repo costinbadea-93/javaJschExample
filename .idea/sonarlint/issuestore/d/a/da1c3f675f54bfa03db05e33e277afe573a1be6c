@@ -1,0 +1,20 @@
+
+E
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎÜõ¨³.
+7
+java:S1220""Move this file to a named package.8Ğùî¨³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇØÆù8Øåü¨³.
+b	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(õ‰¯Ğ8Ğùî¨³.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûàó¨³.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ûæ›úÿÿÿÿ8ÎÜõ¨³.
+‚
+java:S1488$"`Immediately return this expression instead of assigning it to the temporary variable "callable".(Èåîıÿÿÿÿ8Ğùî¨³.
+g	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(ü®òşÿÿÿÿ8€ï¨³.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8€ï¨³.
+T	java:S106A"9Replace this use of System.out or System.err by a logger.(•Å¶8ÎÜõ¨³.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Ñõ¬–8ÎÜõ¨³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8®©³.
+E
+java:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€ï¨³.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÆÕ‰Äÿÿÿÿÿ8ÎÜõ¨³.
